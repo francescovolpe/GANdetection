@@ -37,7 +37,7 @@ The training, validation and evaluation datasets are available from the followin
 
 
 ## Libraries used
-We recommend the use of [Goole Colab](https://colab.research.google.com/)
+I recommend the use of [Goole Colab](https://colab.research.google.com/)
 - tensorflow 2.4.1
 - keras 2.4.0
 - numpy 1.19.5
